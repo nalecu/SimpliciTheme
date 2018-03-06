@@ -89,3 +89,11 @@ a, area, button, input, label, select, summary, textarea, [tabindex] { -ms-touch
 .navy: {color:#475e7d} /*rgba(71, 94, 125, 1);*/
 .eerie: {color:#121a30} /*rgba(18, 26, 48, 1);*/
 .rich: {color:#05050a} /*rgba(5, 5, 10, 1);*/
+
+html {
+    font-family: system-ui,"Segoe UI", Roboto, "Ubuntu", "Helvetica Neue", sans-serif;
+    font-size:18px;
+    line-height: 1.5;
+}
+
+body {background-color:#fafaf5; color:#05050a;}
