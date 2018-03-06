@@ -80,3 +80,12 @@ template {display: none;}
 a, area, button, input, label, select, summary, textarea, [tabindex] { -ms-touch-action: manipulation; touch-action: manipulation;}
 
 [hidden] {display: none;}
+
+/* Colors, fonts & typography
+============================================================================= */
+/* Crisp Clear Morning Palette - coolors.co/fafaf5-8c857f-475e7d-121a30-05050a */
+.snow: {color:#fafaf5} /*rgba(250, 250, 245, 1);*/
+.metallic: {color:#8c857f} /*rgba(140, 133, 127, 1);*/
+.navy: {color:#475e7d} /*rgba(71, 94, 125, 1);*/
+.eerie: {color:#121a30} /*rgba(18, 26, 48, 1);*/
+.rich: {color:#05050a} /*rgba(5, 5, 10, 1);*/
