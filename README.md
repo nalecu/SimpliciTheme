@@ -1,0 +1,2 @@
+# SimpliciTheme
+a theme
